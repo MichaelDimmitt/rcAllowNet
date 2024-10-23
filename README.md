@@ -8,9 +8,9 @@ plan:
 
 research:
 1. need to find out how to monitor url traffic in bash (on mac computer for now)
-  a. tldr nettop
-  b. https://gist.github.com/jjnilton/add1eeeb3a9616f53e4c
-  c. nettop -t wifi
+    1. tldr nettop
+    2. https://gist.github.com/jjnilton/add1eeeb3a9616f53e4c
+    3. nettop -t wifi
 
 potential other features:
 1. show which urls bounceback due to failing the whitelisting
